@@ -1,0 +1,95 @@
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\map.png
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Age_of_emblem_v1.01.exe
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Age_of_emblem_v1.01.pdb
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.csprojResolveAssemblyReference.cache
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.exe
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.pdb
+G:\Projets\Projets Perso\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.exe
+G:\Projets\Projets Perso\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.pdb
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.exe
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.pdb
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\map.png
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Age_of_emblem_v1.01.exe
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Age_of_emblem_v1.01.pdb
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.csprojResolveAssemblyReference.cache
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\Cursor.png
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\Eliwood.png
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\case_deplace.PNG
+C:\Users\polo\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\fleche_move.PNG
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\case_deplace.PNG
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\Cursor.png
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\Eliwood.png
+C:\Users\timothée\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\fleche_move.PNG
+F:\PC MOUHAHA\Documents\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.exe
+F:\PC MOUHAHA\Documents\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.pdb
+F:\PC MOUHAHA\Documents\Documents\Age of Emblem PROJECT\Développement du projet\C#\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.csprojResolveAssemblyReference.cache
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.exe
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.pdb
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\obj\x86\Debug\Age_of_emblem_v1.01.csprojResolveAssemblyReference.cache
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Age_of_emblem_v1.01.exe.config
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Age_of_emblem_v1.01.exe
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Age_of_emblem_v1.01.pdb
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\images\case_deplace.xnb
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\images\Cursor.xnb
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\images\Eliwood.xnb
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\images\fleche_move.xnb
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\images\icone_test_opt (1).xnb
+C:\Users\polo\Documents\Visual Studio 2015\Projects\Age_of_emblem_v1.01\Age_of_emblem_v1.01\bin\Windows\Debug\Content\images\map.xnb
